@@ -1,0 +1,8 @@
+
+Ans - Accessibility is the practice of making your website as usable by many users as possible. It          helps people with disability and those who use mobile or slow internet connections.
+         
+         It is crucial for websites to be accessible to all users, including those with disabilities of all          kinds. It allows them access to the same information and services that are available to         everyone and includes things like news articles, online shopping, online banking,         government services and more.
+
+        Some people cannot use a mouse, including many older users with limited fine motor         control. An accessible website does not rely on the mouse; it makes all functionality         available from a keyboard. Then people with disabilities can use assistive technologies that          mimic the keyboard, such as speech input.
+
+

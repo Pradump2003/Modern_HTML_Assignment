@@ -1,0 +1,18 @@
+Que.1- List out the feature of HTML5 ?
+Ans - HTML5 has many feature.
+1. Improved Multimedia support - HTML5 allows for integrating multimedia elements such    <audio> and <vedio> directly into web pages without the    need for plugins like Flash.
+
+2. Canvas elements -  HTML5 introduced the <canvas> elements, allowing dynamic,          interactive graphics to be created and manupulated within a webpage.
+
+3. Geolocation API - Geolaction API is an API for obtaining the users location, enabling web           applications to offer location-based services.
+
+4. Local Storage - HTML5 introduced th local storage API, which allow for the storage of data     on the user's device, improving performance and reducing the need for round trips to the         server.
+
+5. New Structural Elements - HTML5 introduced new semantic elements such as       <header>,<footer>,<nav> and <article>, etc that make it easier to structure and organize    content on the webpage.
+
+6. Accessibility improvements - HTML5 provides better support for accessibility ,including the    ability to provide alternative text for images and improved support for screen readers. 
+
+
+
+
+
